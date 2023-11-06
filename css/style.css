@@ -43,3 +43,8 @@ a {
 .center p {
     margin: 2px 0px 7px 0px;
 }
+.header footer {
+    padding: 10px;
+    background: black;
+    border-radius: 5px;
+}
