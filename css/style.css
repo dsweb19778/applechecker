@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: #242424;
+}
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+.header {
+    width: 100%;
+    height: auto;
+    color: #FFF;
+    padding: 20px;
+}
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 24px;
+}
+.contactme {
+    background-color: #28A4E2;
+    padding: 9px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+}
+.center a {
+    padding: 14px;
+    margin-top: 10px;
+    display: block;
+    width: 300px;
+    text-align: center;
+    background: tomato;
+    border-radius: 5px;
+}
+.center p {
+    margin: 2px 0px 7px 0px;
+}
